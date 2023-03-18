@@ -1,3 +1,5 @@
+# 분해합
+
 n = int(input())
 constructor = [0] * 1000001
 
